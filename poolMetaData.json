@@ -3,6 +3,6 @@ cat > poolMetaData.json << EOF
 "name": "LGBTQ+ Pool",
 "description": "Start Staking",
 "ticker": "MPN",
-"homepage": "https://myadapoolnamerocks.com"
+"homepage": ""
 }
 EOF
